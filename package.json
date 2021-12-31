@@ -1,0 +1,28 @@
+{
+  "name": "tcpbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CsepJ/TCPBot.git"
+  },
+  "keywords": [
+    "Chatbot"
+  ],
+  "author": "CsepJ",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CsepJ/TCPBot/issues"
+  },
+  "homepage": "https://github.com/CsepJ/TCPBot#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2"
+  }
+}
